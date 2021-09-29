@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LuciaRiato
+- 👀 I’m interested in development, software engineer, frontend and sometimes on video games.
+- 🌱 I’m currently learning more about how to work on development area and how to apply my knowledge in a usefull way
+- 💞️ I’m looking to collaborate on new projects to learn more with new and intresting people with new coding experiences.
+- 📫 How to reach me: Lucia.riato@hotmail.com or Lucia@riato.net.
